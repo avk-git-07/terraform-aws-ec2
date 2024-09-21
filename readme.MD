@@ -1,4 +1,4 @@
-# Terraform AWS EC2
+# Terraform AWS EC2 - Module concept
 
 
 ## Arguments
