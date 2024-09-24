@@ -13,6 +13,7 @@ public_ip - it is created
 
 private_ip - it is created
 
+```
 instance_id - it is created
-
+```
 
